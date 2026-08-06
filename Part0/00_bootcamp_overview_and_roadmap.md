@@ -20,18 +20,7 @@ Foundations (Part 1) once you're past Part 0.
 resources → exercises → mini-project → production project → interview
 questions → checklist → next steps.
 
-**Your starting context (so this handbook stays calibrated to you):**
-You're a backend engineer fluent in Java/Spring Boot, comfortable with cloud
-and CI basics, currently interview-prepping (system design, fan-out patterns,
-LeetCode) with DoorDash as a near-term target, and aiming longer-term at
-platform/infrastructure roles at AI labs. That means:
-- Part 0/1 will move fast for you — treat them as a refresher and a chance to
-  see familiar backend concepts through an AI-systems lens.
-- Part 2 (AI Foundations) is taught from **zero ML assumption**, as requested,
-  but I'll frequently anchor new ideas to things you already know from
-  distributed backend systems (queues, caching, service boundaries).
-- Part 6 (AI Infrastructure) is where your platform-engineering goal and this
-  handbook converge most directly — that's the part to slow down on.
+**Your starting context (so this handbook stays 
 
 ---
 
@@ -122,32 +111,3 @@ stack, milestones, stretch goals, deployment guide, testing strategy,
 observability plan, and future-improvements backlog.
 
 ---
-
-## Sequencing Recommendation for You Specifically
-
-Given your interview timeline and long-term goal, here's a suggested track
-order (you can override this any time):
-
-1. **Now → interview date:** Keep your current interview prep as the priority.
-   Skim Part 0 modules 1–3 in parallel (they're fast for you) since Part 2
-   leans on them.
-2. **Post-interview:** Part 0 (remainder) → Part 1 → Part 2. This is where you
-   build the ML mental model from scratch.
-3. **Parallel track once Part 2 is solid:** Part 3 (LLM Engineering) and Part
-   6 (AI Infrastructure) together — Part 6 is your differentiator for the
-   platform-engineering goal.
-4. Part 4 → Part 5 → capstones, picking capstones that combine RAG + agents +
-   infra (e.g., Deep Research System, Multi-Agent Platform) since those map
-   best to platform/infra roles at AI labs.
-
----
-
-## Status
-
-- [x] Overview & Roadmap (this file)
-- [ ] Part 0 — Module 1: Python for AI Engineers *(next, below)*
-- [ ] Part 0 — Module 2: Git & GitHub
-- [ ] ... (remaining modules delivered one at a time, on your confirmation)
-
-Say "continue" after each module and I'll produce the next one in the same
-depth and format.
