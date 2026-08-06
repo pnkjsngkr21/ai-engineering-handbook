@@ -322,5 +322,3 @@ caching decisions directly to the cost/latency metrics you can now
 actually measure.
 
 ---
-
-**Reply "continue" for Module 5, or flag anything to go deeper on.**
