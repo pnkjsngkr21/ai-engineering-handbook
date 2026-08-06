@@ -305,6 +305,3 @@ Clean Architecture through performance into a cohesive, well-designed
 public API, before Part 2 begins teaching AI/ML from first principles.
 
 ---
-
-**Reply "continue" for Module 11 (Part 1's final module), or flag
-anything to go deeper on.**

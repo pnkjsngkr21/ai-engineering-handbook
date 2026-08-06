@@ -278,5 +278,3 @@ here forward so it runs identically on your machine, in CI, and in
 production, and the direct on-ramp to Part 6's Kubernetes content.
 
 ---
-
-**Reply "continue" for Module 5, or flag anything to go deeper on.**

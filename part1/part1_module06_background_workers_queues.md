@@ -323,5 +323,3 @@ and API key management for programmatic/agent access, not just typical
 username/password login flows.
 
 ---
-
-**Reply "continue" for Module 7, or flag anything to go deeper on.**

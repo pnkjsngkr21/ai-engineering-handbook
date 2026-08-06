@@ -340,6 +340,3 @@ every deployment from Part 8 onward assumes, and that directly support your
 longer-term platform-engineering goal.
 
 ---
-
-**Reply "continue" for Module 14 (the final Part 0 module), or flag
-anything to go deeper on.**

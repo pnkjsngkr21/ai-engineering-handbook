@@ -308,5 +308,3 @@ management, dependency vulnerabilities) beyond what's already been covered
 incidentally in auth (Module 7) and cloud (Part 0 Module 14).
 
 ---
-
-**Reply "continue" for Module 9, or flag anything to go deeper on.**

@@ -107,4 +107,3 @@ Python · FastAPI · System Design · LLM System Design · AI Engineering Concep
 Each capstone ships with: requirements, architecture, folder structure, tech
 stack, milestones, stretch goals, deployment guide, testing strategy,
 observability plan, and future-improvements backlog.
----

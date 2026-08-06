@@ -225,5 +225,3 @@ since async correctness is one of the highest-leverage skills for AI
 systems (which are dominated by I/O-bound waiting on model APIs).
 
 ---
-
-**Reply "continue" for Module 12, or flag anything to go deeper on.**

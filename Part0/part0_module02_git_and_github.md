@@ -277,5 +277,3 @@ containers, inspecting logs, and debugging production AI services, which
 becomes essential starting in Part 6 (Infrastructure).
 
 ---
-
-**Reply "continue" for Module 3, or flag anything you want to go deeper on.**

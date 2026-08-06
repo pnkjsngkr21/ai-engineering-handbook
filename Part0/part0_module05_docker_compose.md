@@ -290,5 +290,3 @@ search via pgvector), taught assuming your existing relational-DB
 competence and focused on the AI-specific access patterns.
 
 ---
-
-**Reply "continue" for Module 6, or flag anything to go deeper on.**

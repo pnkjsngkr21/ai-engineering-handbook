@@ -250,5 +250,3 @@ DB, or your own services, taught with an eye toward the parts (timeouts,
 retries, streaming) that matter specifically for LLM API integration later.
 
 ---
-
-**Reply "continue" for Module 4, or flag anything to go deeper on.**

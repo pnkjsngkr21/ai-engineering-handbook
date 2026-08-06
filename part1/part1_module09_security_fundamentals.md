@@ -341,5 +341,3 @@ Python code correctly and where AI-application performance bottlenecks
 actually live (usually not where intuition suggests).
 
 ---
-
-**Reply "continue" for Module 10, or flag anything to go deeper on.**

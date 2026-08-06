@@ -327,5 +327,3 @@ visibility into non-deterministic model behavior and multi-step
 request/agent flows.
 
 ---
-
-**Reply "continue" for Module 4, or flag anything to go deeper on.**

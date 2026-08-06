@@ -317,5 +317,3 @@ with direct comparisons to Spring Boot so it maps onto knowledge you
 already have.
 
 ---
-
-**Reply "continue" for Module 9, or flag anything to go deeper on.**

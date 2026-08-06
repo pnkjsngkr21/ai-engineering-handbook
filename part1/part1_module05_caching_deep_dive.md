@@ -323,5 +323,3 @@ document processing) asynchronously, outside the request/response cycle,
 using proper job queues.
 
 ---
-
-**Reply "continue" for Module 6, or flag anything to go deeper on.**

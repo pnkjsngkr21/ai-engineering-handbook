@@ -323,7 +323,3 @@ foundation, so Part 2-8 can focus entirely on the AI-specific concepts
 themselves.
 
 ---
-
-**Reply "continue" to begin Part 2, Module 1 (AI Foundations), or let me
-know if you'd like to pause, revisit anything in Part 0/1, or reorder given
-your interview timeline.**

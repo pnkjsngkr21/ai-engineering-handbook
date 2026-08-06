@@ -325,5 +325,3 @@ locally" habit into a real, enforced pipeline — the direct prerequisite
 for Part 8's production deployment work.
 
 ---
-
-**Reply "continue" for Module 8, or flag anything to go deeper on.**

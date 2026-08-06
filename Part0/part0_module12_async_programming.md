@@ -294,5 +294,3 @@ DoorDash-style interviews and for designing the AI system architectures in
 Parts 3–8.
 
 ---
-
-**Reply "continue" for Module 13, or flag anything to go deeper on.**

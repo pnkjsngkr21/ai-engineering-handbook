@@ -312,6 +312,3 @@ hygiene) that production AI teams actually use, since every project from here
 on will be built and versioned properly.
 
 ---
-
-**Reply "continue" when you're ready for Module 2, or tell me if you want to
-go deeper/faster on anything in Module 1 first.**

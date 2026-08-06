@@ -284,5 +284,3 @@ locking, environment isolation) that's been used implicitly throughout
 Part 0 so far, making it deliberate and well-understood.
 
 ---
-
-**Reply "continue" for Module 11, or flag anything to go deeper on.**

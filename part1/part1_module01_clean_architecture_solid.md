@@ -336,5 +336,3 @@ Factory for provider instantiation, Adapter for wrapping heterogeneous
 provider SDKs behind one interface).
 
 ---
-
-**Reply "continue" for Module 2, or flag anything to go deeper on.**

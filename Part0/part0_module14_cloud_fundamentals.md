@@ -326,7 +326,3 @@ production-grade software engineering discipline, before Part 2 begins
 teaching AI/ML from first principles.
 
 ---
-
-**Reply "continue" to begin Part 1, Module 1, or let me know if you'd like
-to pause here, revisit anything in Part 0, or reorder given your interview
-timeline.**

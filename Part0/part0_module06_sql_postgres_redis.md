@@ -279,5 +279,3 @@ rendering) and the freelancing/SaaS-building track in Parts 9/11, taught
 efficiently for someone whose primary strength is backend.
 
 ---
-
-**Reply "continue" for Module 7, or flag anything to go deeper on.**

@@ -355,5 +355,3 @@ and how to wire together everything built so far (repositories, adapters,
 decorators, use cases) into a coherent, testable application structure.
 
 ---
-
-**Reply "continue" for Module 3, or flag anything to go deeper on.**

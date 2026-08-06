@@ -302,5 +302,3 @@ deliberate testing strategy (unit, integration, contract tests) across both
 your Python and TypeScript code.
 
 ---
-
-**Reply "continue" for Module 10, or flag anything to go deeper on.**

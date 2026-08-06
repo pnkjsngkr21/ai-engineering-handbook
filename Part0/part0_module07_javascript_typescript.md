@@ -288,5 +288,3 @@ async/TS foundation to actually construct component-based UIs, the direct
 prerequisite for Part 7's chat interfaces and Part 11's capstone frontends.
 
 ---
-
-**Reply "continue" for Module 8, or flag anything to go deeper on.**
